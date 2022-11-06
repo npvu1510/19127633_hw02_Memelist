@@ -1,0 +1,11 @@
+.gallery img {
+  height: 200px;
+}
+.notification-failed {
+  color: red;
+}
+
+.notification-loading {
+  color: #868e96;
+  font-family: sans-serif;
+}
