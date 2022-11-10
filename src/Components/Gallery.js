@@ -3,7 +3,7 @@ import "./Gallery.css";
 import { Container } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
 
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import Axios from "axios";
 
